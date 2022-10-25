@@ -1,0 +1,14 @@
+{
+    "valido": {
+        "email": "testeqa@mailinator.com",
+        "senha": "123456"
+      
+    },
+    "invalido": {
+        "email": "biomariliavitorio@gmail.com",
+        "senha": "1234456"
+    },
+    "incompleto": {
+        "email": "biomariliavito"
+     }
+}
